@@ -13,7 +13,7 @@ Quick usage
 
 First you must configure your Flickr account, getting an API key and secret.
 You should register to the [Flickr App Garden](https://www.flickr.com/services).
-You will also need to find out your user id from your Flickr username, some services like [IdGettr](http://idgettr.com/) can get this for you.
+You will also need to find out your user id from your Flickr username, some services like [IdGettr](http://idgettr.com/) can get this for you. Alternatively you can find your Flickr user id by sending yourself FlickrMail. User ID appears in the url when composing FlickrMail. 
 Configure the flickr plugin (`flickr.yaml` in `user/config/plugins/`, or even better using Grav Admin),  with these values:
 
     flickr_api_key: "<your api key>"
